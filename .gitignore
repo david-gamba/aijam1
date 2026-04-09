@@ -14,8 +14,13 @@ dist-ssr
 *.local
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
+.vscode/
+.github/
+
+# AI tools
+.agents/
+.antigravity/
+.claude/
 .idea
 .DS_Store
 *.suo
