@@ -15,7 +15,10 @@ dist-ssr
 
 # Editor directories and files
 .vscode/
-.github/
+# .github/ — workflows are tracked, see below
+!.github/
+!.github/workflows/
+!.github/workflows/deploy.yml
 
 # AI tools
 .agents/
