@@ -56,3 +56,10 @@ Pri komunikaci se pouziva markdown - je to efektvni jazyk pro komunikaci - dokaz
 - pripojovani k chybovejm hlaskam pres MCP, aby si sbiral chyby a logy a rovnou si je opravoval
 
 má tam takovej zajímavej příkaz ![Image] a https k obrazku
+
+# OpenClaw - osobní asitent - je to jenom wrapper
+- je to agent zamceny na serveru (na pc, cloudu), je to jenom wrapper nad jinym agentem (claude, atd.) a my s nim muzeme komunikovat treba pres telegram, whatsapp atd. a tim ze zije na serveru a komuniujem es nim pres chat, tak komunikuje 24/7
+- on si zamcel claude coda na server k nemu domu a on se pres termninal v telefonu pres SSH se pripojil pres VPN k tomu serveru a muze si s nim psat skrz telefon. Ten server nemusi byt nutne pocitac, muze to byt VPS (Hetzner) treba za 3 eura mesice, muze tam bezet claude code, pak je claude dispatch - bude toho ale vic a vic, protoze je to trend
+
+# Generování AI promptů s AI chatem
+- zlepsuje to vysledky - bud muzu overpromptovat (hodne detailu jak to udelat) - vic predikovatelnej vysledek, underprompt - nezadam jakou technologii atd.
